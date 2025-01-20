@@ -32,4 +32,4 @@ Bu uygulama şu teknolojiler kullanılarak geliştirilmiştir:
 
 ## 🤝 Katkıda Bulunun  
 Eğer bu projeye katkıda bulunmak isterseniz, pull request gönderebilir veya issue açabilirsiniz.  
->>>>>>> 8309397a29e3dac8b7506b9ed186afc32aa5e7ff
+
